@@ -1,0 +1,16 @@
+{
+  "timecodes": [
+    {
+      "time": "000001",
+      "amplitude": "5.1"
+    },
+    {
+      "time": "000002",
+      "amplitude": "4.2"
+    },
+    {
+      "time": "000003",
+      "amplitude": "3.9"
+    }
+  ]
+}
