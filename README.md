@@ -34,5 +34,5 @@ following configuration:
 Feel free to tweak the config to your own needs; annotations for every setting are provided in `src/Config.java`.
 
 # Creators
-Java particle simulation by Andriy Sheptunov
+Java particle simulation by Andriy Sheptunov  
 Python audio parsing by Abbad Vakil
