@@ -28,7 +28,7 @@ the current audio clip.
 
 `properties.json` stores config data for the renderer, and tweaking these settings will produce dramatically different 
 visuals, depending on the desired effect. For our specific configuration in the film, we used approximately the 
-following configuration:
+following configuration:  
 ![Image](https://i.imgur.com/MCmXoaw.png)
 
 Feel free to tweak the config to your own needs; annotations for every setting are provided in `src/Config.java`.
